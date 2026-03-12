@@ -16,11 +16,32 @@
         "BORDER_SUBTLE": [
             "#37373a"
         ],
+        "BACKGROUND_SURFACE_HIGH": [
+            "#292d2e"
+        ],
+        "TEXT_LINK": [
+            "#2994bf"
+        ],
         "PANEL_BG": [
-            "#2a2e31"
+            "#292d2e"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#202427"
+        ],
+        "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+            "#444037"
+        ],
+        "INTERACTIVE_TEXT_DEFAULT": [
+            "#c8cccf"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#0f1314"
+        ],
+        "BACKGROUND_MOD_MUTED": [
+            "#3f4247"
+        ],
+        "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT": [
+            "#292d2d"
         ],
         "CHAT_BACKGROUND": [
             "#202427"
