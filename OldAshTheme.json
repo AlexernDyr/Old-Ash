@@ -1,0 +1,15 @@
+{
+    "name": "Old_Ash",
+    "description": "Bring_it_Back",
+    "authors": [
+        {
+            "name": "Alexern"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_BASE_LOW": [
+            "#31343b"
+        ]
+    },
+    "spec": 2
+}
