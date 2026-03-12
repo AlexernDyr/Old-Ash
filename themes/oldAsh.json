@@ -10,6 +10,15 @@
         "BACKGROUND_BASE_LOW": [
             "#31343b"
         ],
+        "BACKGROUND_BASE_LOWEST": [
+            "#2a2e31"
+        ],
+        "BORDER_SUBTLE": [
+            "#37373a"
+        ],
+        "PANEL_BG": [
+            "#2a2e31"
+        ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#202427"
         ],
