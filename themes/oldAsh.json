@@ -55,12 +55,7 @@
     "SPOILER_REVEALED_BACKGROUND": [ "#62688040", "#62688040" ]
   },
   "rawColors": {
-    "BLUE_300": "#FFEF7C",
-    "BLUE_330": "#FFEF7C",
-    "BLUE_345": "#FFEF7C",
-    "BLUE_360": "#FFEF7C",
-    "BLUE_400": "#FFEF7C",
-    "BLUE_430": "#a6d189",
+    "BLUE_430": "#FFEF7C",
     "BLUE_460": "#a6d189",
     "BLUE_500": "#a6d189",
     "BLUE_530": "#a6d189",
