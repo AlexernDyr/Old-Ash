@@ -1,12 +1,12 @@
 {
-    "name": "Old_Ash",
-    "description": "Bring_it_Back",
-    "authors": [
-        {
-            "name": "Alexern"
-        }
-    ],
-     "semanticColors": {
+  "name": "Old Ash",
+  "description": "Bring it back",
+  "authors": [
+    {
+      "name": "Alexern"
+    }
+  ],
+  "semanticColors": {
     "ANDROID_RIPPLE": [ "#00F816", "#737994" ],
     "BACKGROUND_ACCENT": [ "#a6d189", "#a6d189" ],
     "BACKGROUND_MENTIONED": [ "#e5c89017", "#e5c89017" ],
